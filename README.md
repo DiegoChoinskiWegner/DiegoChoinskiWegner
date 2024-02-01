@@ -66,11 +66,11 @@
 
 <h3 align="left">Tools</h3>
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="notion" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" alt="chatgpt" width="40" height="40"/> </a> 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=TutoriaisFerramentas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/Ferramentas)
 
