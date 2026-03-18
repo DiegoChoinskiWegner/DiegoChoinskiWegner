@@ -12,6 +12,20 @@ Professional with a strong background in **Data Engineering**, **Artificial Inte
 
 ---
 
+### 🚀 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DiegoChoinskiWegner/AI-ML-Projects/tree/main/robot-assistent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=AI-ML-Projects/tree/main/robot-assistent&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="AI Project" />
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
+---
+
 ### 🎯 Areas of Expertise
 
 #### 🗄️ Data Engineering
