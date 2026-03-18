@@ -16,13 +16,13 @@ Professional with a strong background in **Data Engineering**, **Artificial Inte
 
 #### 🗄️ Data Engineering
 > Focused on building reliable data infrastructures, ETL/ELT pipelines, and data modeling.
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=DataBase&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/DataBase)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=DataBase&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/DataEngineering)
 
 **Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 #### 🤖 Artificial Intelligence & Machine Learning
 > Developing predictive models, deep learning architectures, and integrating AI into production.
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/AI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=AI&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/AI-ML-Projects)
 
 **Stack:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
