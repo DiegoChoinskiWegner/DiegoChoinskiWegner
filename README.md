@@ -28,12 +28,14 @@ Professional with a strong background in **Data Engineering**, **Artificial Inte
 
 #### ⚙️ Backend Development
 > Designing and implementing scalable APIs and microservices.
+> 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=BackEnd&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/BackEnd)
 
 **Stack:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 > Infrastructure as Code, CI/CD pipelines, and cloud-native solutions.
+> 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoChoinskiWegner&repo=DevOps&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoChoinskiWegner/DevOps)
 
 **Stack:** ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
